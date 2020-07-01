@@ -16,6 +16,7 @@ yarn add form-brute
 const { formBrute } = require('form-brute')
 
 // Set up your config
+// Set brute-forced field to null
 const config = { url: "htttp://localhost:5000", data: { name: "John Doe", password: null }}
 const wordList = ["123456","1111111", "01234qwe"]
 
