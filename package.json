@@ -20,7 +20,7 @@
     "url": "https://github.com/Andycko/brute-force"
   },
   "author": "Andrej Szalma",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
   }
