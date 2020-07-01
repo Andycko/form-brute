@@ -15,6 +15,10 @@
     "Webform",
     "Form"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andycko/brute-force"
+  },
   "author": "Andrej Szalma",
   "license": "ISC"
 }
