@@ -15,7 +15,7 @@ const axios = require('axios');
  *      const config = { url: "htttp://localhost:5000", data: { name: "John Doe", password: null }}
  *      const wordList = ["123456","1111111", "01234qwe"]
  *
- *      bruteForce(config, wordList, 5)
+ *      formBrute(config, wordList, 5)
  *          .then((res) => {
  *              // Working with the response
  *          })
