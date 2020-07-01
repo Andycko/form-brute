@@ -1,0 +1,20 @@
+{
+  "name": "brute-force",
+  "version": "1.0.0",
+  "description": "Simple package that tries all possibilities from a wordList in a web form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dictionary",
+    "Education",
+    "Bruteforce",
+    "Brute-force",
+    "Combinations",
+    "Webform",
+    "Form"
+  ],
+  "author": "Andrej Szalma",
+  "license": "ISC"
+}
